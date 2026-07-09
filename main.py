@@ -1,5 +1,5 @@
-from auth.login import login
+
+from database.storage import clear_user
 
 
-user = login("Narendra", "Password123!")
-print(user.last_login)
+clear_user()

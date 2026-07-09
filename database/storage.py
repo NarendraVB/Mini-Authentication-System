@@ -40,3 +40,6 @@ def update_user(updated_user: User) -> None:
             users[i] = updated_user
             break
     save_users(users)
+
+def clear_user() -> None:
+    save_users([])
