@@ -10,5 +10,11 @@
         "hashed_password": "dummy_hash",
         "created_at": "2026-07-09T20:30:00",
         "last_login": null
+    },
+    {
+        "username": "Narendra",
+        "hashed_password": "$2b$12$5qpU7vBksjhseBgn033Fzu0qbw7c8nWuavR.Fy.Pg25IwuxyD.roi",
+        "created_at": "2026-07-09T21:30:26.451853",
+        "last_login": "2026-07-09T21:41:23.501697"
     }
 ]
